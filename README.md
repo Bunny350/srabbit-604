@@ -1,4 +1,9 @@
 # srabbit-604
+<p align=center>
+	<a>
+		<img src="https://raw.githubusercontent.com/Bunny350/srabbit-604/main/Media/Logos/Pack/srabbit%20604%20wide.svg" alt="srabbit 604 (Wide)">
+	</a>
+</p>
 <!-- This is just the beginning, that will show right after srabbit 604 release.
 
 Total downloads: can we hit ten-thousand sets?
@@ -20,7 +25,7 @@ We have also opened a new channel called #srabbit-604-earlyaccess text channel f
 
 There are other ways to ask for help, you can message @officialbunny350 in Facebook and @realBunny350 in Twitter.
 
-![srabbit 604 with USB brick render](/Renders/604%20body%20with%20usb%20final.png)
+![srabbit 604 with USB brick render](/Media/Renders/604%20body%20with%20usb%20final.png)
 ## Variants
 srabbit 604 has different variants, each serves different purposes. srabbit 604 (the base model) consists 4S 2P 6000mAh 18650 cells, which makes it easy to build. While srabbit 604+ contains 4S (1P) 8000mAh Lithium-polymer cells which to us thinking it is difficult to source with the exact match.
 
