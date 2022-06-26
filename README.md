@@ -22,11 +22,13 @@ If this presists, then please head to Issues section.
 
 We have also opened a new channel called #srabbit-604-earlyaccess text channel for everyone, so if you have issues assembling the unit then please visit and join our Discord server.
 
-[![discord](https://img.shields.io/discord/272981155433807875?label=Bunny%20350%20by%20OITSWILLIAM%20PANG&logo=discord&logoColor=white)](https://discord.gg/Cu6e9ra)
+[![discord](https://img.shields.io/discord/272981155433807875?label=OIWP%20Discord%20Server&logo=discord&logoColor=white)](https://discord.gg/Cu6e9ra)
 
 There are other ways to ask for help, you can message @officialbunny350 in Facebook and @realBunny350 in Twitter.
 
 ![srabbit 604 with USB brick render](/Media/Renders/604%20body%20with%20usb%20final.png)
+
+[View BOM](https://docs.google.com/spreadsheets/d/11ocOQokPBLjM7sVbjJyP3hix97rGz_gBFH1wdsNTyFA/edit?usp=sharing)
 ## Variants
 srabbit 604 has different variants, each serves different purposes. srabbit 604 (the base model) consists 4S 2P 6000mAh 18650 cells, which makes it easy to build. While srabbit 604+ contains 4S (1P) 8000mAh Lithium-polymer cells which to us thinking it is difficult to source with the exact match.
 
