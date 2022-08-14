@@ -1,7 +1,11 @@
 # srabbit-604
 <p align=center>
 	<a>
-		<img src="https://raw.githubusercontent.com/Bunny350/srabbit-604/main/Media/Logos/Pack/srabbit%20604%20wide.svg" alt="srabbit 604 (Wide)">
+		<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bunny350/srabbit-604/main/Media/Logos/Pack/srabbit%20604%20wide-whitetext.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bunny350/srabbit-604/main/Media/Logos/Pack/srabbit%20604%20wide.svg">
+  <img alt="srabbit 604 logo (Wide)" src="https://raw.githubusercontent.com/Bunny350/srabbit-604/main/Media/Logos/Pack/srabbit%20604%20wide.svg">
+</picture>
 	</a>
 </p>
 
@@ -26,7 +30,7 @@ We have also opened a new channel called #srabbit-604-earlyaccess text channel f
 
 There are other ways to ask for help, you can message @officialbunny350 in Facebook and @realBunny350 in Twitter.
 
-![srabbit 604 with USB brick render](/Media/Renders/604%20body%20with%20usb%20final.png)
+![srabbit 604 and it's USB brick render](/Media/Renders/604%20render%202%20blue%20tint.png)
 
 [View BOM](https://docs.google.com/spreadsheets/d/11ocOQokPBLjM7sVbjJyP3hix97rGz_gBFH1wdsNTyFA/edit?usp=sharing)
 ## Variants
